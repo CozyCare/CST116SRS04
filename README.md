@@ -8,7 +8,7 @@ SRS ID: CST116SRS04
 
 Unresolved Issues:  
 
-Notes:  
+Notes:  I think I have found the solutions for missing angles and sides for all types of triangles, except for AAA.
 
 
 ---
